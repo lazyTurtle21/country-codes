@@ -1,0 +1,251 @@
+,country,code
+0,0,158
+1,Afghanistan,4
+2,Albania,8
+3,Algeria,12
+4,American Samoa,16
+5,Andorra,20
+6,Angola,24
+7,Anguilla,660
+8,Antarctica,10
+9,Antigua and Barbuda,28
+10,Argentina,32
+11,Armenia,51
+12,Aruba,533
+13,Australia,36
+14,Austria,40
+15,Azerbaijan,31
+16,Bahamas,44
+17,Bahrain,48
+18,Bangladesh,50
+19,Barbados,52
+20,Belarus,112
+21,Belgium,56
+22,Belize,84
+23,Benin,204
+24,Bermuda,60
+25,Bhutan,64
+26,Bolivia (Plurinational State of),68
+27,"Bonaire, Sint Eustatius and Saba",535
+28,Bosnia and Herzegovina,70
+29,Botswana,72
+30,Bouvet Island,74
+31,Brazil,76
+32,British Indian Ocean Territory,86
+33,British Virgin Islands,92
+34,Brunei Darussalam,96
+35,Bulgaria,100
+36,Burkina Faso,854
+37,Burundi,108
+38,Cabo Verde,132
+39,Cambodia,116
+40,Cameroon,120
+41,Canada,124
+42,Cayman Islands,136
+43,Central African Republic,140
+44,Chad,148
+45,Chile,152
+46,China,156
+47,"China, Hong Kong Special Administrative Region",344
+48,"China, Macao Special Administrative Region",446
+49,Christmas Island,162
+50,Cocos (Keeling) Islands,166
+51,Colombia,170
+52,Comoros,174
+53,Congo,178
+54,Cook Islands,184
+55,Costa Rica,188
+56,Croatia,191
+57,Cuba,192
+58,Curaçao,531
+59,Cyprus,196
+60,Czechia,203
+61,Côte d'Ivoire,384
+62,Democratic People's Republic of Korea,408
+63,Democratic Republic of the Congo,180
+64,Denmark,208
+65,Djibouti,262
+66,Dominica,212
+67,Dominican Republic,214
+68,Ecuador,218
+69,Egypt,818
+70,El Salvador,222
+71,Equatorial Guinea,226
+72,Eritrea,232
+73,Estonia,233
+74,Eswatini,748
+75,Ethiopia,231
+76,Falkland Islands (Malvinas),238
+77,Faroe Islands,234
+78,Fiji,242
+79,Finland,246
+80,France,250
+81,French Guiana,254
+82,French Polynesia,258
+83,French Southern Territories,260
+84,Gabon,266
+85,Gambia,270
+86,Georgia,268
+87,Germany,276
+88,Ghana,288
+89,Gibraltar,292
+90,Greece,300
+91,Greenland,304
+92,Grenada,308
+93,Guadeloupe,312
+94,Guam,316
+95,Guatemala,320
+96,Guernsey,831
+97,Guinea,324
+98,Guinea-Bissau,624
+99,Guyana,328
+100,Haiti,332
+101,Heard Island and McDonald Islands,334
+102,Holy See,336
+103,Honduras,340
+104,Hungary,348
+105,Iceland,352
+106,India,356
+107,Indonesia,360
+108,Iran (Islamic Republic of),364
+109,Iraq,368
+110,Ireland,372
+111,Isle of Man,833
+112,Israel,376
+113,Italy,380
+114,Jamaica,388
+115,Japan,392
+116,Jersey,832
+117,Jordan,400
+118,Kazakhstan,398
+119,Kenya,404
+120,Kiribati,296
+121,Kuwait,414
+122,Kyrgyzstan,417
+123,Lao People's Democratic Republic,418
+124,Latvia,428
+125,Lebanon,422
+126,Lesotho,426
+127,Liberia,430
+128,Libya,434
+129,Liechtenstein,438
+130,Lithuania,440
+131,Luxembourg,442
+132,Madagascar,450
+133,Malawi,454
+134,Malaysia,458
+135,Maldives,462
+136,Mali,466
+137,Malta,470
+138,Marshall Islands,584
+139,Martinique,474
+140,Mauritania,478
+141,Mauritius,480
+142,Mayotte,175
+143,Mexico,484
+144,Micronesia (Federated States of),583
+145,Monaco,492
+146,Mongolia,496
+147,Montenegro,499
+148,Montserrat,500
+149,Morocco,504
+150,Mozambique,508
+151,Myanmar,104
+152,Namibia,516
+153,Nauru,520
+154,Nepal,524
+155,Netherlands,528
+156,New Caledonia,540
+157,New Zealand,554
+158,Nicaragua,558
+159,Niger,562
+160,Nigeria,566
+161,Niue,570
+162,Norfolk Island,574
+163,Northern Mariana Islands,580
+164,Norway,578
+165,Oman,512
+166,Pakistan,586
+167,Palau,585
+168,Panama,591
+169,Papua New Guinea,598
+170,Paraguay,600
+171,Peru,604
+172,Philippines,608
+173,Pitcairn,612
+174,Poland,616
+175,Portugal,620
+176,Puerto Rico,630
+177,Qatar,634
+178,Republic of Korea,410
+179,Republic of Moldova,498
+180,Romania,642
+181,Russian Federation,643
+182,Rwanda,646
+183,Réunion,638
+184,Saint Barthélemy,652
+185,Saint Helena,654
+186,Saint Kitts and Nevis,659
+187,Saint Lucia,662
+188,Saint Martin (French Part),663
+189,Saint Pierre and Miquelon,666
+190,Saint Vincent and the Grenadines,670
+191,Samoa,882
+192,San Marino,674
+193,Sao Tome and Principe,678
+194,Sark,0
+195,Saudi Arabia,682
+196,Senegal,686
+197,Serbia,688
+198,Seychelles,690
+199,Sierra Leone,694
+200,Singapore,702
+201,Sint Maarten (Dutch part),534
+202,Slovakia,703
+203,Slovenia,705
+204,Solomon Islands,90
+205,Somalia,706
+206,South Africa,710
+207,South Georgia and the South Sandwich Islands,239
+208,South Sudan,728
+209,Spain,724
+210,Sri Lanka,144
+211,State of Palestine,275
+212,Sudan,729
+213,Suriname,740
+214,Svalbard and Jan Mayen Islands,744
+215,Sweden,752
+216,Switzerland,756
+217,Syrian Arab Republic,760
+218,Tajikistan,762
+219,Thailand,764
+220,The former Yugoslav Republic of Macedonia,807
+221,Timor-Leste,626
+222,Togo,768
+223,Tokelau,772
+224,Tonga,776
+225,Trinidad and Tobago,780
+226,Tunisia,788
+227,Turkey,792
+228,Turkmenistan,795
+229,Turks and Caicos Islands,796
+230,Tuvalu,798
+231,Uganda,800
+232,Ukraine,804
+233,United Arab Emirates,784
+234,United Kingdom of Great Britain and Northern Ireland,826
+235,United Republic of Tanzania,834
+236,United States Minor Outlying Islands,581
+237,United States Virgin Islands,850
+238,United States of America,840
+239,Uruguay,858
+240,Uzbekistan,860
+241,Vanuatu,548
+242,Venezuela (Bolivarian Republic of),862
+243,Viet Nam,704
+244,Wallis and Futuna Islands,876
+245,Western Sahara,732
+246,Yemen,887
+247,Zambia,894
+248,Zimbabwe,716
+249,Åland Islands,248
