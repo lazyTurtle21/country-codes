@@ -25,7 +25,7 @@
 23,Benin,204
 24,Bermuda,60
 25,Bhutan,64
-26,Bolivia (Plurinational State of),68
+26,Bolivia,68
 27,"Bonaire, Sint Eustatius and Saba",535
 28,Bosnia and Herzegovina,70
 29,Botswana,72
@@ -52,7 +52,7 @@
 50,Cocos (Keeling) Islands,166
 51,Colombia,170
 52,Comoros,174
-53,Congo,178
+53,Republic of the Congo,178
 54,Cook Islands,184
 55,Costa Rica,188
 56,Croatia,191
@@ -75,7 +75,7 @@
 73,Estonia,233
 74,Eswatini,748
 75,Ethiopia,231
-76,Falkland Islands (Malvinas),238
+76,Falkland Islands,238
 77,Faroe Islands,234
 78,Fiji,242
 79,Finland,246
@@ -107,7 +107,7 @@
 105,Iceland,352
 106,India,356
 107,Indonesia,360
-108,Iran (Islamic Republic of),364
+108,Iran,364
 109,Iraq,368
 110,Ireland,372
 111,Isle of Man,833
@@ -143,7 +143,7 @@
 141,Mauritius,480
 142,Mayotte,175
 143,Mexico,484
-144,Micronesia (Federated States of),583
+144,Micronesia,583
 145,Monaco,492
 146,Mongolia,496
 147,Montenegro,499
@@ -180,7 +180,7 @@
 178,Republic of Korea,410
 179,Republic of Moldova,498
 180,Romania,642
-181,Russian Federation,643
+181,Russia,643
 182,Rwanda,646
 183,Réunion,638
 184,Saint Barthélemy,652
@@ -233,15 +233,15 @@
 231,Uganda,800
 232,Ukraine,804
 233,United Arab Emirates,784
-234,United Kingdom of Great Britain and Northern Ireland,826
+234,United Kingdom,826
 235,United Republic of Tanzania,834
 236,United States Minor Outlying Islands,581
 237,United States Virgin Islands,850
-238,United States of America,840
+238,United States,840
 239,Uruguay,858
 240,Uzbekistan,860
 241,Vanuatu,548
-242,Venezuela (Bolivarian Republic of),862
+242,Venezuela,862
 243,Viet Nam,704
 244,Wallis and Futuna Islands,876
 245,Western Sahara,732
