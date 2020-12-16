@@ -27,7 +27,7 @@ row,country,code
 25,Bhutan,64
 26,Bolivia,68
 27,"Bonaire, Sint Eustatius and Saba",535
-28,Bosnia and Herzegovina,70
+28,Bosnia-Herzegovina,70
 29,Botswana,72
 30,Bouvet Island,74
 31,Brazil,76
@@ -59,7 +59,7 @@ row,country,code
 57,Cuba,192
 58,Curaçao,531
 59,Cyprus,196
-60,Czechia,203
+60,Czech Republic,203
 61,Côte d'Ivoire,384
 62,Democratic People's Republic of Korea,408
 63,Democratic Republic of the Congo,180
@@ -122,7 +122,7 @@ row,country,code
 120,Kiribati,296
 121,Kuwait,414
 122,Kyrgyzstan,417
-123,Lao People's Democratic Republic,418
+123,Laos,418
 124,Latvia,428
 125,Lebanon,422
 126,Lesotho,426
@@ -150,7 +150,7 @@ row,country,code
 148,Montserrat,500
 149,Morocco,504
 150,Mozambique,508
-151,Myanmar,104
+151,Burma (Myanmar),104
 152,Namibia,516
 153,Nauru,520
 154,Nepal,524
@@ -178,7 +178,7 @@ row,country,code
 176,Puerto Rico,630
 177,Qatar,634
 178,Republic of Korea,410
-179,Republic of Moldova,498
+179,Moldova,498
 180,Romania,642
 181,Russia,643
 182,Rwanda,646
@@ -216,7 +216,7 @@ row,country,code
 214,Svalbard and Jan Mayen Islands,744
 215,Sweden,752
 216,Switzerland,756
-217,Syrian Arab Republic,760
+217,Syria,760
 218,Tajikistan,762
 219,Thailand,764
 220,The former Yugoslav Republic of Macedonia,807
@@ -242,7 +242,7 @@ row,country,code
 240,Uzbekistan,860
 241,Vanuatu,548
 242,Venezuela,862
-243,Viet Nam,704
+243,Vietnam,704
 244,Wallis and Futuna Islands,876
 245,Western Sahara,732
 246,Yemen,887
