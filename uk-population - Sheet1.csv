@@ -3,7 +3,7 @@ Code,Name,Geography1,All ages,Area
 "K03000001,GREAT BRITAIN,Country,""64,903,140"",,,,",GREAT BRITAIN,Country,"64,903,140",
 "K04000001,ENGLAND AND WALES,Country,""59,439,840"",,,,",ENGLAND AND WALES,Country,"59,439,840",
 "E92000001,ENGLAND,Country,""56,286,961"",,,,",ENGLAND,Country,"56,286,961",
-"E12000001,North East England,Region,""2,669,941"",,,,",North East,Region,"2,669,941","8,592"
+"E12000001,North East England,Region,""2,669,941"",,,,",North East England,Region,"2,669,941","8,592"
 "E06000047,County Durham,Unitary Authority,""530,094"",,,,",County Durham,Unitary Authority,"530,094",
 "E06000005,Darlington,Unitary Authority,""106,803"",,,,",Darlington,Unitary Authority,"106,803",
 "E06000001,Hartlepool,Unitary Authority,""93,663"",,,,",Hartlepool,Unitary Authority,"93,663",
@@ -167,7 +167,7 @@ Code,Name,Geography1,All ages,Area
 "E07000237,Worcester,Non-metropolitan District,""101,222"",,,,",Worcester,Non-metropolitan District,"101,222",
 "E07000238,Wychavon,Non-metropolitan District,""129,433"",,,,",Wychavon,Non-metropolitan District,"129,433",
 "E07000239,Wyre Forest,Non-metropolitan District,""101,291"",,,,",Wyre Forest,Non-metropolitan District,"101,291",
-"E12000006,Eastern,Region,""6,236,072"",,,,",EAST,Region,"6,236,072","19,12"
+"E12000006,Eastern,Region,""6,236,072"",,,,",Eastern,Region,"6,236,072","19,12"
 "E06000055,Bedford,Unitary Authority,""173,292"",,,,",Bedford,Unitary Authority,"173,292",
 "E06000056,Central Bedfordshire,Unitary Authority,""288,648"",,,,",Central Bedfordshire,Unitary Authority,"288,648",
 "E06000032,Luton,Unitary Authority,""213,052"",,,,",Luton,Unitary Authority,"213,052",
